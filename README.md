@@ -1,4 +1,3 @@
-"""
 Hi There! My name is Gage and I am studying Chemical Engineering at The University of Texas at San Antonio. I am currently in my sophomore year and am on track to graduate by May 2027.
 
 I enjoy engineering and chemical projects, and am looking forward to getting into the programming and computer engineering scene, as I am taking an introductory programming course at my school.
